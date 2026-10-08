@@ -37,10 +37,10 @@ Additional Resources
 •	ARI-s - Italian - translated by Dr Michele Poletti  
 •	ARI-p - Japanese - translated by Dr Emi Furukawa & Dr Gail Tripp  
 •	ARI-s - Japanese - translated by Dr Emi Furukawa & Dr Gail Tripp  
-•	ARI-p – Korean (7 days) - translated by Hakjisa Publisher, Inc.  
-•	ARI-s – Korean (7 days) - translated by Hakjisa Publisher, Inc.  
-o	ARI-p – Korean (6 months) - translated by Hakjisa Publisher, Inc.  
-o	ARI-s – Korean (6 months) - translated by Hakjisa Publisher, Inc.  
+•	ARI-p – Korean (7 days) - translated by Hakjisa Publisher, Inc. and amended by Gihyun Kim  
+•	ARI-s – Korean (7 days) - translated by Hakjisa Publisher, Inc.   and amended by Gihyun Kim
+o	ARI-p – Korean (6 months) - translated by Hakjisa Publisher, Inc.  and amended by Gihyun Kim
+o	ARI-s – Korean (6 months) - translated by Hakjisa Publisher, Inc.  and amended by Gihyun Kim
 •	ARI-p - Norwegian - translated by Dr Beate Ørbeck & Dr Kristin Romvig Øvergaard  
 •	ARI-s - Norwegian - translated by Dr Beate Ørbeck & Dr Kristin Romvig Øvergaard  
 •	ARI-p - Spanish (Latin America) - translated by Dr Andrea Abadi  
